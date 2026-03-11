@@ -16,7 +16,7 @@ If interested, star 🌟 this project!
 ![teaser](assets/teaser.png)&nbsp;
 
 ## Setup
-To set up the environment, install requirements using Python 3.9:
+To set up the environment, install requirements using Python 3.12:
 ```shell
 git clone https://github.com/Jerome-Young/OmniVTON-PlusPlus.git
 conda create -n omnivton++ python=3.12
