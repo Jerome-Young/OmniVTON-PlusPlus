@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="transformers" />
+            <item index="1" class="java.lang.String" itemvalue="gradio" />
+            <item index="2" class="java.lang.String" itemvalue="safetensors" />
+            <item index="3" class="java.lang.String" itemvalue="open-clip-torch" />
+            <item index="4" class="java.lang.String" itemvalue="controlnet_aux" />
+            <item index="5" class="java.lang.String" itemvalue="accelerate" />
+            <item index="6" class="java.lang.String" itemvalue="huggingface_hub" />
+            <item index="7" class="java.lang.String" itemvalue="importlib_metadata" />
+            <item index="8" class="java.lang.String" itemvalue="pydantic_core" />
+            <item index="9" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="10" class="java.lang.String" itemvalue="tqdm" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+            <item index="12" class="java.lang.String" itemvalue="torchvision" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
