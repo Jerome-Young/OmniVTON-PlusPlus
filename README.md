@@ -8,7 +8,7 @@
 </div>
 
 This is the official implementation of the paper:  
->**OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance**<br>  [Zhaotong Yang](https://github.com/Jerome-Young), [Yong Du](https://www.csyongdu.cn/), [Shengfeng He](https://www.shengfenghe.com/), [Yuhui Li](https://github.com/March-rain233), [Xinzhe Li](https://github.com/lixinzhe-ouc), [Yangyang Xu](https://cnnlstm.github.io/), [Junyu Dong](https://it.ouc.edu.cn/djy_23898/main.htm), [Jian Yang](https://teacher.njust.edu.cn/jsj/yj/list.htm)<br>
+>**OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance**<br>  [Zhaotong Yang](https://github.com/Jerome-Young), [Yong Du<sup>*</sup>](https://www.csyongdu.cn/), [Shengfeng He](https://www.shengfenghe.com/), [Yuhui Li](https://github.com/March-rain233), [Xinzhe Li](https://github.com/lixinzhe-ouc), [Yangyang Xu](https://cnnlstm.github.io/), [Junyu Dong](https://it.ouc.edu.cn/djy_23898/main.htm), [Jian Yang](https://teacher.njust.edu.cn/jsj/yj/list.htm)<br> (* indicates corresponding author)
 
 If interested, star 🌟 this project! 
 
