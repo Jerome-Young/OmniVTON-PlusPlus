@@ -87,7 +87,7 @@ condition_dir/
 ```
 
 ## Usage
-To generate a pseudo person image, run the following command:
+Run the inference script by passing your configured arguments as follows:
 ```shell
 python inference.py \
   --model-id sd2_inp \
